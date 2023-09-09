@@ -1,5 +1,4 @@
 ## Курс Операционных систем НГУ посвященный многопоточному программированию под UNIX - [Условия](https://github.com/seijuuro/OC-nsu/blob/master/Posix%20Threads%20Tasks.pdf)
-
 1. [Создание нити](https://github.com/seijuuro/OC-nsu/tree/master/1)
 3. [Параметры нити](https://github.com/seijuuro/OC-nsu/tree/master/3)
 4. [Принудительное завершение нити](https://github.com/seijuuro/OC-nsu/tree/master/4)
